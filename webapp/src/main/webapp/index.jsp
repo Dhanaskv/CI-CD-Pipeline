@@ -1,1 +1,1 @@
-<h1> Hello Team, Welcome to TrueHoch !!! </h1>
+<h1> Hello Team, Welcome to TrueHoch ! </h1>
